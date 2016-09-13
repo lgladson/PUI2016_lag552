@@ -2,7 +2,7 @@
 
 **Contribution:** 
 
-I worked in a group with Nonie Mathur & Santiago Carillo. Santiago helped me work through creating the environmental variable and the alias, as well as troubleshooting some issues I ran into with the .bashrc command. I helped Santiago and Nonie create their PUI2016 repos on github and the README.md files through compute. 
+I worked in a group with Nonie Mathur & Santiago Carillo. Santiago helped me work through creating the environmental variable and the alias, as well as troubleshooting some issues I ran into with the .bashrc command. I helped Santiago and Nonie create their PUI2016 repos on github and the README.md files through compute. Generally, we worked together through the assignment.
 
 **Process:** 
 
