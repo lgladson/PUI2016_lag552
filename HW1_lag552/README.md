@@ -18,7 +18,7 @@ This successfully created the pui2016 alias, which I checked using the pwd funct
 
 **Contribution:** 
 
-I worked with Laura Bligh on the extra credit assignment. Specifically, she helped me with the first step and with the challenge portion at the end. I also got help from Aviral Somvanshi, who helped me create the code for the second step and explained what it was doing and rendering (and also how to view the arrays to check my work). I figured out how to created the plots visually and helped Laura with that too (and she gave me her own ideas). Generally, we worked on it together, though.
+I worked with Laura Bligh on the extra credit assignment. Specifically, she helped me with the first step and with the challenge portion at the end. I also got help from Aviral Somvanshi, who helped me create the code for the second step and explained what it was doing and rendering (and also how to view the arrays to check my work). I figured out how to created the plots visually and helped Laura with that too (and she gave me her own ideas).
 
 **Process Summary:** 
 
