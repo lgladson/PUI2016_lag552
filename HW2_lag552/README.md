@@ -53,9 +53,9 @@ against each other.
 ##Extra Credit
 
 **Contribution:**
-After understanding Assignment 3, I did most of this on my own. I did receive help from Dr. Bianco, who taught me about the
-pd.to_datetime function so I could change the dates in the dataset to values that could be plotted. 
-(*Note: We had some trouble creating a scatterplot - Dr. Bianco ultimately determined that the dataset I chose couldn't handle 
-a scatter function, and that the graph I have is all right because of this.)
+After understanding Assignment 3, I did most of this on my own with help from Dr. Bianco, who taught me about the pd.to_datetime function.
 
 **Process Summary:**
+Same as above, just adding in the pd.to_datetime function so I could change the dates in the dataset to values that could be 
+plotted.
+(*Note: We had some trouble creating a scatterplot - Dr. Bianco ultimately determined that the dataset I chose couldn't handle a scatter function, and that the graph I have is all right because of this.)
