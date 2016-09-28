@@ -3,7 +3,7 @@
 ##Contribution: 
 I worked in a group with Nonie Mathur, Santiago Carrillo, Maisha Lopa, and Alexey Kalinin. We worked through Assignments 
 2 & 3 together. I mainly got help from them with coding issues, while I feel my greatest contribution was explaining the statistics 
-behind the problems to the others. For Assignment 1, we mainly worked alone but I did reach out to my group via email as questions came up. 
+behind the problems to the others. For Assignment 1, we mainly worked alone but I did reach out to my group via email as questions came up. I also provided code to Maisha for the All Means distribution for Assignment 1, which Himanshu helped me with.
 
 #Assignment 1
 
