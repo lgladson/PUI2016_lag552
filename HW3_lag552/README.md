@@ -10,7 +10,7 @@ behind the problems to the others. For Assignment 1, we mainly worked alone but 
 ##Summary: 
 For this assignment, I created distributions of 100 sample means of different sizes for five different types of distributions.
 I could see the Central Limit Theorem at play, since my plots showed the larger the sample size, the closer the sample mean was to the true population mean. I also saw how these plots approximated normal distributions. Please note, when I tried to add in captions right into 
-the plots, they would render differently with each run for some reason, so instead I added markdowns beneath each plot with the caption description about the CLT>
+the plots, they would render differently with each run for some reason, so instead I added markdowns beneath each plot with the caption description about the CLT.
 
 #Assignment 2
 
