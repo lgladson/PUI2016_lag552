@@ -3,6 +3,9 @@
 ##Assignment 1
 
 ##Assignment 2
+**Contribution:** I worked on this assignment independently (due to scheduling restraints). 
+
+**Assignnment Scope:** This literature review involved finding two scientific articles using a test to see the difference betweeen groups and using a test to look for relationships between the IV and DVs, respectively. I chose a t-test for my first paper, and looked at an article about how bacterial diversity varies between asthmatic smokers and healthy non-smokers, and also how bacterial diversity varies amoung asthmatic smokers who quit smoking and those who do not. This study was technically an exploratory one, though they did perform analysis in their results, so it was a little difficult to determine hypothesis and alpha values, but I explain this in the table below. As a notes, their conclusion was that asthmatic smokers do have more bacterial diversity, but there was no significant difference in this group between quitters and non-quitters. My second study was one using multiple linear regression to look at the relationship between a specific peptide level and bone mineral density in U.S. citizens. It ultimately determined a significant negative linear relationship between these variables. 
 
 | **Statistical Analyses	|  IV(s)  |  IV type(s) |  DV(s)  |  DV type(s)  |  Control Var | Control Var type  | Question to be answered | _H0_ | alpha | link to paper **|
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
