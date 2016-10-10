@@ -9,8 +9,9 @@
 *1. Do diets help lose more fat than exercise? Experimental setup: you have a test and a control sample.*
 
 **Null Hypothesis:** Subjects in the diet group will lose the same or less fat that those in the exercise (control) group, alpha = 0.05.
+An average person who diets loses significantly less or equal fat compared to a person who exercises, alpha = 0.05.
 
-**H0 Formula:** 
+**H0 Formula:** Fat loss (diet group) <= Fat loss (exercise group)
 
 *2. Do American trust the president? POLL RESULTS: On May 16, 1994, Newsweek reported the results of a public opinion poll that asked: “From everything you know about Bill Clinton, does he have the honesty and integrity you expect in a president?” (p. 23). Poll surveyed 518 adults and 233, or 0.45 of them answered yes.*
 
