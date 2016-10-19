@@ -7,6 +7,10 @@
 
 **ASSIGNMENT 2**
 
+*Authorea Link:* https://www.authorea.com/users/106326/articles/133244/_show_article
+
+*Notebook:* In HW6_lag552 repo as "HW6_Assignment 2_lag552"
+
 *Collaboration:* I worked with Nonie Mathur, Santiago Carillo, Alexey Kalinin, and Maisha Lopez. We all discussed the changes to be made to our hypothesis statements and the test to perform and worked through this together. I personally contributed significantly to the write-up and to the z-test interpretation, as well as writing the code for the overlapping histogram figure.
 
 *Summary:* We finished our Citi Bike analysis, testing our hypothesis about whether those 35 and under bike for longer durations that the general user. We ultimately rejected our null hypothesis using a z-test as suggested by our peer reviewers. 
