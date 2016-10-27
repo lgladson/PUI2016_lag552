@@ -1,8 +1,3 @@
-
-# coding: utf-8
-
-# In[ ]:
-
 from __future__ import print_function
 import pylab as pl
 import json
@@ -28,4 +23,3 @@ for i in location:
     longitude = i['MonitoredVehicleJourney']['VehicleLocation']['Longitude']
     print ('Bus', ii, 'is at latitude', latitude, 'and longitude', longitude)
     ii = ii + 1
-
