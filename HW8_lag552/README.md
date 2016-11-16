@@ -7,3 +7,5 @@ I worked with Keith and Enrique on beginning to import the 311 dataset during cl
 ##Description
 
 In this assignment, I wrangled three datasets, looking for measurement errors in the 311 data and removing duplicate identifiers and filling in some missing valuables when other data was substantial enough to do so. I merged the 311 dataset with two others: demographics and internet access, and created ratios of characteristics for districts with highest and lowest numbers of complaints to see how they differ. 
+
+Just a note - a few lines of my code takes quite a while to load, but it eventually does (I tested each line before uploading). 
