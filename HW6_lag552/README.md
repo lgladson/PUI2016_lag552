@@ -14,3 +14,9 @@
 *Collaboration:* I worked with Nonie Mathur, Santiago Carillo, Alexey Kalinin, and Maisha Lopez. We all discussed the changes to be made to our hypothesis statements and the test to perform and worked through this together. I personally contributed significantly to the write-up and to the z-test interpretation, as well as writing the code for the overlapping histogram figure.
 
 *Summary:* We finished our Citi Bike analysis, testing our hypothesis about whether those 35 and under bike for longer durations that the general user. We ultimately rejected our null hypothesis using a z-test as suggested by our peer reviewers. 
+
+# FBB
+
+your authorea article is set to private and I cannot see it. laura changed the setting after I asked you all to.
+
+the analysis is good, but you did not explit any of the capabilities of authorea: you did not put the plots in the article context, but put them all at the end, you did not write the equations for H0 Ha (or the z test, which is also an easy equation) you did not have the authors listed as authors so the paper does not link you your accounts and is not in your portfolio, etc. look at the comments int he paper itself.
