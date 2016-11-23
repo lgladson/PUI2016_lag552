@@ -10,13 +10,7 @@ From the class lab, we imported census tract map data and looked at general popu
 
 For this assignment, the same process as in Assignment 1 was used, but instead of looking at the monthly average of rides for each tract, I pulled the summer and winter months, seperately, from the dataset and took their averages for each tract. Then I went through the above process (twice, essentially) for both summer and winter. 
 
-**Seasonal Effects:** First off, there are generally more riders during the summer than during the winter. From my notebook:
-
-*The average number of summer rides per census tract is  17276*
-
-*The average number of winter rides per census tract is  6860*
-
-Or, there are only about 40% of the number of rides in winter that there are in summer, on average. Already, there is a clear increase in ridership between the two seasons. 
+**Seasonal Effects:** First off, there are generally more riders during the summer than during the winter. From my notebook's data I could calculate that the average number of summer and winter rides per census tract was 17276 and 6860, respectively. In other words, there are only about 40% of the number of rides in winter that there are in summer, on average. Already, there is a clear increase in ridership between the two seasons. 
 
 Looking at this geographically, both winter and summer maps of ridership show concentrations in southern Manhattan (below Central Park) which rides decreasing drastically once you go into the other boroughs. This, of course, makes sense since Citibikes are only located for rent inside Manhattan. 
 
